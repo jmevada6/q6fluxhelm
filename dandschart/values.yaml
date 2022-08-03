@@ -5,10 +5,10 @@
 replicaCount: 2
 
 image:
-  repository: jmevada6/finalexam:q2
+  repository: jmevada6/finalexam
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "q2"
+  tag: "q6"
 
 imagePullSecrets: []
 nameOverride: ""
